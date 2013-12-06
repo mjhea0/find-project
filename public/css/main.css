@@ -1,10 +1,10 @@
-#main-div {
-  margin-top: 100px;
-  margin-bottom: 120px;
+#results {
+  background-color: #eee;
+  padding: 20px;
 }
 
 .container {
-  max-width: 800px;
+  max-width: 1000px;
 }
 
 
@@ -27,11 +27,15 @@
 }
 
 #title {
-  font-size: 50px;
+  font-size: 40px;
   margin: 0 auto;
 }
 
 #description {
   margin: 0 auto;
-  font-size: 25px;
+  font-size: 20px;
+}
+
+h1 {
+  font-size: 35px;
 }
